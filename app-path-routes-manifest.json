@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/api/whatsapp/route": "/api/whatsapp",
+  "/page": "/",
+  "/whatsapp/page": "/whatsapp",
+  "/products/[id]/page": "/products/[id]",
+  "/recipes/[slug]/page": "/recipes/[slug]",
+  "/recipes/page": "/recipes",
+  "/whatsapp/open/[region]/page": "/whatsapp/open/[region]"
+}

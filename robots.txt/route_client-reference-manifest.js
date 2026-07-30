@@ -1,0 +1,1 @@
+globalThis.__RSC_MANIFEST=(globalThis.__RSC_MANIFEST||{});globalThis.__RSC_MANIFEST["/robots.txt/route"]={"moduleLoading":{"prefix":"/_next/"},"ssrModuleMapping":{},"edgeSSRModuleMapping":{},"clientModules":{},"entryCSSFiles":{"/home/u211135552/domains/trade.mjagrogroup.com/public_html/.builds/source/app/robots.txt/route":[]},"rscModuleMapping":{},"edgeRscModuleMapping":{}};
